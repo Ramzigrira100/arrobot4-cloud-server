@@ -1,0 +1,9 @@
+{
+  "name": "arrobot4-cloud-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure server-side OpenAI Responses API proxy for ARRobot4",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
